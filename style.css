@@ -130,6 +130,10 @@ img{
     text-align: center;
 }
 
+.tile p{
+    padding: 10px;
+}
+
 .tile-img{
     border-radius: 10px;
     border-width: 3px;
